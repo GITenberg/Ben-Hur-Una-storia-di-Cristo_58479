@@ -1,0 +1,35 @@
+_repo: Ben-Hur-Una-storia-di-Cristo_58479
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Cavalieri, Gastone
+    gutenberg_agent_id: '49981'
+    url: http://www.gutenberg.org/2009/agents/49981
+  - agent_name: Mildmay, H.
+    gutenberg_agent_id: '49980'
+    url: http://www.gutenberg.org/2009/agents/49980
+creator:
+  author:
+    agent_name: Wallace, Lew
+    alias: Wallace, Lewis
+    birthdate: 1827
+    deathdate: 1905
+    gutenberg_agent_id: '836'
+    url: http://www.gutenberg.org/2009/agents/836
+    wikipedia: http://en.wikipedia.org/wiki/Lew_Wallace
+description: ''
+gutenberg_bookshelf: IT Romanzi storici
+gutenberg_issued: '2018-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58479'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ben Hur
+
+  Una storia di Cristo'
+url: http://www.gutenberg.org/ebooks/58479
